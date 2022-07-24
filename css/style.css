@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@400;700&display=swap');
+
+*{
+    font-family: 'Cormorant SC', serif;
+}
+
+.title{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.text{
+    font-weight:400;
+    font-size:20px;
+}
+
+.sub-title{
+    font-weight:700;
+    font-size: 25px;
+}
+
+
+img{
+    width:500px;
+    height:auto;
+}
+
